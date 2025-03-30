@@ -36,7 +36,7 @@ const profileData = {
   ),
   email: "alex.alexiev [at] mail (dot) utoronto (dot) ca",
   githubUsername: "alex-alexiev",
-  // Using placeholder image
+  // Using placeholder imageAn Implantable System for Opioid Safety Device
   imageUrl: "https://github.com/pattgene/website/blob/main/files/myprofile.png",
 };
 

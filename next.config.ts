@@ -9,7 +9,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
-        hostname: "alex-alexiev.github.io",
+        hostname: "github.com/pattgene/website",
       },
     ],
   },
