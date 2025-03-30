@@ -17,7 +17,7 @@ const profileData = {
         </Link>{" "}
         at the{" "}
         <Link href="#" className="text-blue-700 hover:text-blue-900">
-          University of Toronto
+          University of HK
         </Link>
         . I am pursuing a Major in Robotics with a Minor in Artificial
         Intelligence. Throughout my degree, I worked at Electronic Arts as a
