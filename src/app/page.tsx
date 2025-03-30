@@ -37,7 +37,7 @@ const profileData = {
   email: "alex.alexiev [at] mail (dot) utoronto (dot) ca",
   githubUsername: "alex-alexiev",
   // Using placeholder image
-  imageUrl: "https://alex-alexiev.github.io/files/profile.jpg",
+  imageUrl: "https://github.com/pattgene/website/blob/main/files/myprofile.png",
 };
 
 // Actual publications from alex-alexiev.github.io
